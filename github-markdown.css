@@ -146,11 +146,13 @@
 
 .cnblogs-markdown a {
   background-color: transparent;
+  text-decoration: none !important;
 }
 
 .cnblogs-markdown a:active,
 .cnblogs-markdown a:hover {
   outline-width: 0;
+  text-decoration: underline !important;
 }
 
 .cnblogs-markdown strong {

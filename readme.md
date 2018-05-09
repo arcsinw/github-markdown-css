@@ -1,4 +1,6 @@
-# github-markdown-css
+# cnblogs-markdown-css
+
+forked from github-markdown-css
 
 > The minimal amount of CSS to replicate the GitHub Markdown style
 
