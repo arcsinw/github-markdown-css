@@ -173,7 +173,7 @@
 }
 
 .cnblogs-markdown code,.cnblogs-post-body code {
-  font-family: "Courier New",sans-serif!important;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace !important;
   font-size: 12px!important;
   line-height: 20px;
   background-color: #f6f8fa!important;
@@ -723,4 +723,11 @@
 
 .cnblogs-markdown hr {
   border-bottom-color: #eee;
+}
+
+.cnblogs-markdown .hljs,.cnblogs-post-body .hljs {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace !important;
+    font-size: 12px!important;
+    line-height: 1.5!important;
+    padding: 5px!important
 }
