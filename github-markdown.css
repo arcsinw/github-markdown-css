@@ -731,3 +731,7 @@
     line-height: 1.5!important;
     padding: 5px!important
 }
+
+.postBody blockquote {
+    background: none;
+}
