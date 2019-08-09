@@ -1,4 +1,14 @@
-# cnblogs-markdown-css
+# cnblogs-markdown-css 
+
+forked from [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
+
+make some changes to use in [cnblogs.com](https://www.cnblogs.com) directly
+
+the origin readme
+
+---
+
+# github-markdown-css
 
 forked from github-markdown-css
 
